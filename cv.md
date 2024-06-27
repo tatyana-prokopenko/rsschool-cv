@@ -3,9 +3,8 @@
 ## Tatyana Prokopenko
 
 ### Contacts
-Email: tatyana-prokopenko@bk.ru (preferred)
-Phone: +7 938 163 25 19
-GitHub: tatyana-prokopenko
+Email: tatyana-prokopenko@bk.ru (preferred)  
+GitHub: tatyana-prokopenko  
 Discord: tatyana_prokopenko
 
 ### About me
