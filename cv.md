@@ -1,30 +1,33 @@
 # RS school CV
+---
 ## Tatyana Prokopenko
-## Contacts
+
+### Contacts
 Email: tatyana-prokopenko@bk.ru (preferred)
 Phone: +7 938 163 25 19
 GitHub: tatyana-prokopenko
 Discord: tatyana_prokopenko
 
-## About me
+### About me
 I would like to evolve in the profession of a developer, it is very interesting to me. My goal is to be able to put any project into practice. I love to study and I hope this will help me in my work, as well as a little experience in graphic design.
 
-## Skills
-JS (fundamentals)
-HTML
+### Skills
+* JS (fundamentals)
+* HTML
 
-## Code
+### Code
 ```
 function digitize(n) {
   return n.toString().split('').reverse().map((elem) => Number(elem))
 }
 ```
 
-## Education
+### Education
 Rostov State University of Civil Engineering, accountant
 
-## Language
-Russian C2, English B1
+### Language
+* Russian C2
+* English B1
 
 
 
